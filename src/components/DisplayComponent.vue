@@ -1,6 +1,8 @@
 <template>
-    <div class="display"></div>
-    {{ value }}
+    <div class="display">
+        {{ value }}
+    </div>
+
 </template>
 
 <script>

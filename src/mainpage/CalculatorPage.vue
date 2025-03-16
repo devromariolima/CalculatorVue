@@ -16,6 +16,7 @@
         <Button label="3" />
         <Button label="+" operation="" />
         <Button label="0" double />
+        <Button label="." />
         <Button label="=" operation />
     </div>
 </template>
