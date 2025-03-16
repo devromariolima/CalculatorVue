@@ -33,7 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: linear-gradient(#1e3c72, #2a5298, #1c92d2);
+  background: linear-gradient(to bottom, #1e3c72, #e0e0e0);
 
 }
 </style>
