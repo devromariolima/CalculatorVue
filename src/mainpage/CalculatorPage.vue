@@ -73,6 +73,7 @@ export default {
             const displayValue = currentValue + n
             this.displayValue = displayValue
             this.clearDisplay = false
+            this.values[this.current] = displayValue
 
             if (n !== ".") {
                 const i = this.current
