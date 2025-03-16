@@ -20,7 +20,7 @@
 
 - npm ou Yarn (gerenciadores de pacotes)
 
-<img src="https://i.imgur.com/5Og0vac.png" alt="Desktop Screenshot" width="600"/>
+<img src="https://i.imgur.com/5Og0vac.png" alt="Desktop Screenshot" width="400" height="300"/>
 
 ## Project setup
 ```
