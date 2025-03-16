@@ -1,5 +1,6 @@
 <template>
     <div class="display"></div>
+    {{ value }}
 </template>
 
 <script>
@@ -8,4 +9,15 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.display {
+    grid-column: span 4;
+    background-color: #0004;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    font-size: 2.1rem;
+    overflow: hidden;
+}
+</style>
